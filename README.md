@@ -16,7 +16,7 @@ This is the **Week 1 Assignment** for **Introduction to Python** submitted by **
 ## How to Run
 
 -   Open Terminal or Command Prompt
--   Clone the Repository by pasting `git clone https://github.com/bipinkafle230-dev/notes-here` in the terminal
+-   Clone the Repository by pasting `https://github.com/AadiGodzilla/Assignment-1` in the terminal
 -   Then paste `cd notes-here` to change directory to `notes-here` folder/directory
 -   Run `python calculation.py` to run the program for `calculation.py`
 -   Run `python detail.py` to run the program for `detail.py`
